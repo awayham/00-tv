@@ -1,0 +1,41 @@
+
+#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" group-title="News",Al Araby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6njRt6c.png" tvg-country="JO" tvg-url="" group-title="",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al-Alam
+https://live2.alalamtv.net/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ooiJwD5.png" tvg-country="UK" tvg-url="" group-title="",Al-Hiwar
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8?v=1771904733&__mn_sid=13380223219124813958
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ooiJwD5.png" tvg-country="UK" tvg-url="" group-title="",Al-Hiwar
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="News",BBC Arabic
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="DW Arabia ARB" tvg-name="DW Arabia ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LGjZIWL.png" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="News",DW Arabia
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="DW Arabia ARB" tvg-name="DW Arabia ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LGjZIWL.png" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="News",DW Arabia
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_2_av-b.m3u8
+#EXTINF:-1 tvg-id="DW Arabia ARB" tvg-name="DW Arabia ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LGjZIWL.png" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="News",DW Arabia
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 tvg-id="DW Arabia ARB" tvg-name="DW Arabia ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LGjZIWL.png" tvg-country="DE" tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz" group-title="News",DW Arabia
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-id="Sky News Arabic ARB" tvg-name="Sky News Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+
+
