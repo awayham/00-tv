@@ -1,48 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS",=====KIDS========
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS AR",=====KIDS========
 http://iptvh.it/satcom-logo1
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50338.png",Boba
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50338.png"group-title="KIDS AR",AR: Boba
 http://teledunet.com:25461/live/tdn/5130735730/50338.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50338.png",Boba2
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50338.png"group-title="KIDS AR",AR: Boba2
 http://s3.teledunet.com:8080/live/tdn/5130735730/50338.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101528.png",Majed
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101528.png"group-title="KIDS AR",AR: Majed
 http://teledunet.com:25461/live/tdn/5130786920/101528.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101544.png",Baraem
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101544.png"group-title="KIDS AR",AR: Baraem
 http://teledunet.com:25461/live/tdn/5130786936/101544.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS",=====NEWS========
+#EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS AR",=====NEWS========
 http://iptvh.it/satcom-logo1
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/01.png",Aljazeera HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/01.png"group-title="NEWS AR",AR: Aljazeera HD
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1,----- ARAB COUNTRIES -----
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/03.png" group-title="NEWS AR",AR: Aljazeera Mubasher
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/03.png"group-title="NEWS AR",AR: Aljazeera Mubasher
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/04.jpg"group-title="NEWS AR",AR: Aljazeera Documentary
 http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/23.png",Elsharq
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/23.png"group-title="NEWS AR",AR: Elsharq
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/06.jpg"group-title="NEWS AR",AR: NEWS AR: Mekameleen
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/06.jpg"group-title="NEWS AR",AR: Mekameleen
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/07.jpg",Watan
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/07.jpg"group-title="NEWS AR",AR: Watan
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/08.jpg",Alqanat 9
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/08.jpg"group-title="NEWS AR",AR: Alqanat 9
 https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_b13064000_slENG.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/09.jpg",Daawah
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/09.jpg"group-title="NEWS AR",AR: Daawah
 http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/10.jpg",Alhiwar
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/10.jpg"group-title="NEWS AR",AR: Alhiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b2796000.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg",Qatar TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg"group-title="NEWS AR",AR: Qatar TV
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/master720p.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/11.jpg",Al Araby
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/11.jpg"group-title="NEWS AR",AR: Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg",TRT Arabic
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg"group-title="NEWS AR",AR: TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/13.jpg",BBC Arabic
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/13.jpg"group-title="NEWS AR",AR: BBC Arabic
 http://vs-hls-ww-live.akamaized.net/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa4=128000-video=5070016.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/14.jpg",France 24 Arabic
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/14.jpg"group-title="NEWS AR",AR: France 24 Arabic
 http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/15.jpg",DW Arabic
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/15.jpg"group-title="NEWS AR",AR: DW Arabic
 https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Alaqsa
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg"group-title="NEWS AR",AR: Alaqsa
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg",Al Quran Al Kareem
 http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist_w2079433332.m3u8
