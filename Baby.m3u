@@ -29,6 +29,8 @@ http://teledunet.com:25461/live/tdn/5132691667/2006275.m3u8
 http://teledunet.com:25461/live/tdn/5132691738/2006346.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006348.png"group-title="KIDS AR",AR: Song
 http://s3.teledunet.com:8080/live/tdn/5132691740/2006348.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1049.png"group-title="KIDS AR",AR: OSn KIDS
+http://teledunet.com:25461/live/tdn/5313925205/1049.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="KIDS AR",Spacetoon (1080p)
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="KIDS AR",Spacetoon (576p)
@@ -324,4 +326,27 @@ http://teledunet.com:25461/live/tdn/5314025606/101450.m3u8
 http://teledunet.com:25461/live/tdn/5314025614/101458.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1044.png"group-title="OSN",AR: OSN Yahala
 http://teledunet.com:25461/live/tdn/5314025614/101458.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1044.png"group-title="OSN",AR: OSN Yahala
 http://teledunet.com:25461/live/tdn/5313925200/1044.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101448.png"group-title="OSN",AR: OSN Yahala Oula Hd
+http://teledunet.com:25461/live/tdn/5314025604/101448.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1045.png"group-title="OSN",AR: OSN Yahala Oula 
+http://teledunet.com:25461/live/tdn/5313925201/1045.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014480.png"group-title="OSN",AR: OSN Yahala Cinema Hd
+http://teledunet.com:25461/live/tdn/5314938636/1014480.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1046.png"group-title="OSN",AR: OSN Yahala Cinema
+http://teledunet.com:25461/live/tdn/5313925202/1046.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102264.png"group-title="OSN",AR: OSN Musalsalat HD
+http://teledunet.com:25461/live/tdn/5314026420/102264.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1047.png"group-title="OSN",AR: OSN Musalsalat
+http://teledunet.com:25461/live/tdn/5313925203/1047.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102257.png"group-title="OSN",AR: OSN comedy Hd
+http://teledunet.com:25461/live/tdn/5314026413/102257.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1022570.png"group-title="OSN",AR: OSN comedy
+http://teledunet.com:25461/live/tdn/5314946726/1022570.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1048.png"group-title="OSN",AR: OSN comedy Central
+http://teledunet.com:25461/live/tdn/5313925204/1048.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102256.png"group-title="OSN",AR: OSN Action Hd
+http://teledunet.com:25461/live/tdn/5314026412/102256.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1022560.png"group-title="OSN",AR: OSN Action 
+http://teledunet.com:25461/live/tdn/5314946716/1022560.m3u8
