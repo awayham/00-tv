@@ -31,11 +31,11 @@ http://iptvh.it/satcom-logo1
 http://teledunet.com:25461/live/tdn/5130695400/10008.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="LEBANON AR",AR: AL JADEED
 http://teledunet.com:25461/live/tdn/5130686540/1148.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1147.png"group-title="LEBANON AR",AR: MTV
+#EXTINF:0 tvg-logo="https://goo.gl/Ggp24v"group-title="LEBANON AR",AR: MTV
 http://teledunet.com:25461/live/tdn/5130686539/1147.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50706.png"group-title="LEBANON AR",AR: LBC HD
 http://teledunet.com:25461/live/tdn/5130736098/50706.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1145.png"group-title="LEBANON AR",AR: LBC
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50706.png"group-title="LEBANON AR",AR: LBC
 http://teledunet.com:25461/live/tdn/5130686537/1145.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS AR",=====NEWS========
 http://iptvh.it/satcom-logo1
