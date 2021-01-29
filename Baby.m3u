@@ -3,7 +3,7 @@
 http://iptvh.it/satcom-logo1
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50338.png"group-title="KIDS AR",AR: Boba
 http://teledunet.com:25461/live/tdn/5130735730/50338.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50338.png"group-title="KIDS AR",AR: Boba2
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50338.png"group-title="KIDS AR",AR: Boba 2
 http://s3.teledunet.com:8080/live/tdn/5130735730/50338.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101528.png"group-title="KIDS AR",AR: Majed
 http://teledunet.com:25461/live/tdn/5130786920/101528.m3u8
@@ -13,11 +13,13 @@ http://teledunet.com:25461/live/tdn/5130786936/101544.m3u8
 http://teledunet.com:25461/live/tdn/5130686511/1119.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1119.png"group-title="KIDS AR",AR: KARAMISH
 http://teledunet.com:25461/live/tdn/5130695508/10116.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1119.png"group-title="KIDS AR",AR: KARAMISH 2
 http://s2.teledunet.com:8080/live/tdn/5130695508/10116.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1117.png"group-title="KIDS AR",AR: khalj
 http://teledunet.com:25461/live/tdn/5130686509/1117.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006274.png"group-title="KIDS AR",AR: Makhlp
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006274.png"group-title="KIDS AR",AR: PATROL
 http://teledunet.com:25461/live/tdn/5132691666/2006274.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006274.png"group-title="KIDS AR",AR: PATROL 2
 http://s3.teledunet.com:8080/live/tdn/5132691666/2006274.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006275.png"group-title="KIDS AR",AR: TOM AND J
 http://teledunet.com:25461/live/tdn/5132691667/2006275.m3u8
