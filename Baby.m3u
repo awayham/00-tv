@@ -19,23 +19,23 @@ http://teledunet.com:25461/live/tdn/5130686509/1117.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006274.png"group-title="KIDS AR",AR: Makhlp
 http://teledunet.com:25461/live/tdn/5132691666/2006274.m3u8
 http://s3.teledunet.com:8080/live/tdn/5132691666/2006274.m3u8
-EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006275.png"group-title="KIDS AR",AR: TOM AND J
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006275.png"group-title="KIDS AR",AR: TOM AND J
 http://teledunet.com:25461/live/tdn/5132691667/2006275.m3u8
-EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006346.png"group-title="KIDS AR",AR: MiKY
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006346.png"group-title="KIDS AR",AR: MiKY
 http://teledunet.com:25461/live/tdn/5132691738/2006346.m3u8
-EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006348.png"group-title="KIDS AR",AR: Song
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006348.png"group-title="KIDS AR",AR: Song
 http://s3.teledunet.com:8080/live/tdn/5132691740/2006348.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="LEBANON AR",=====LEBANON========
 http://iptvh.it/satcom-logo1
-EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="LEBANON AR",AR: AL JADEED HD
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="LEBANON AR",AR: AL JADEED HD
 http://teledunet.com:25461/live/tdn/5130695400/10008.m3u8
-EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="LEBANON AR",AR: AL JADEED
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="LEBANON AR",AR: AL JADEED
 http://teledunet.com:25461/live/tdn/5130686540/1148.m3u8
-EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1147.png"group-title="LEBANON AR",AR: MTV
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1147.png"group-title="LEBANON AR",AR: MTV
 http://teledunet.com:25461/live/tdn/5130686539/1147.m3u8
-EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50706.png"group-title="LEBANON AR",AR: LBC HD
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50706.png"group-title="LEBANON AR",AR: LBC HD
 http://teledunet.com:25461/live/tdn/5130736098/50706.m3u8
-EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1145.png"group-title="LEBANON AR",AR: LBC
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1145.png"group-title="LEBANON AR",AR: LBC
 http://teledunet.com:25461/live/tdn/5130686537/1145.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS AR",=====NEWS========
 http://iptvh.it/satcom-logo1
