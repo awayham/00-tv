@@ -6,3 +6,5 @@ http://teledunet.com:25461/live/tdn/5130735730/50338.m3u8
 http://s3.teledunet.com:8080/live/tdn/5130735730/50338.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101528.png",Majed
 http://teledunet.com:25461/live/tdn/5130786920/101528.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101544.png",Baraem
+http://teledunet.com:25461/live/tdn/5130786936/101544.m3u8
