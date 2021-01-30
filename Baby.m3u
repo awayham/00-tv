@@ -4,13 +4,13 @@ http://iptvh.it/satcom-logo1
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1134.png"group-title="KIDS AR",AR: MBC 3
 http://teledunet.com:25461/live/tdn/5130686526/1134.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50338.png"group-title="KIDS AR",AR: Boba
-http://teledunet.com:25461/live/tdn/5130735730/50338.m3u8
+http://teledunet.com:25461/live/tdn/5497213258/50338.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50338.png"group-title="KIDS AR",AR: Boba 2
 http://s3.teledunet.com:8080/live/tdn/5130735730/50338.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101528.png"group-title="KIDS AR",AR: Majed
 http://teledunet.com:25461/live/tdn/5130786920/101528.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101544.png"group-title="KIDS AR",AR: Baraem
-http://teledunet.com:25461/live/tdn/5130786936/101544.m3u8
+http://teledunet.com:25461/live/tdn/5497264464/101544.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1119.png"group-title="KIDS AR",AR: JEEM
 http://teledunet.com:25461/live/tdn/5130686511/1119.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1119.png"group-title="KIDS AR",AR: KARAMISH
@@ -53,6 +53,12 @@ http://teledunet.com:25461/live/tdn/5130695400/10008.m3u8
 http://teledunet.com:25461/live/tdn/5130686540/1148.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/Ggp24v"group-title="LEBANON AR",AR: MTV
 http://teledunet.com:25461/live/tdn/5130686539/1147.m3u8
+http://teledunet.com:25461/live/tdn/5497164067/1147.m3u8
+#EXTINF:0 tvg-logo="https://goo.gl/Ggp24v"group-title="LEBANON AR",AR: MTV
+http://best.teledunet.com:8080/live/tdn/5497164067/1147.m3u8
+#EXTINF:0 tvg-logo="https://goo.gl/Ggp24v"group-title="LEBANON AR",AR: MTV HD
+http://teledunet.com:25461/live/tdn/5497172929/10009.m3u8
+
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50706.png"group-title="LEBANON AR",AR: LBC HD
 http://teledunet.com:25461/live/tdn/5130736098/50706.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50706.png"group-title="LEBANON AR",AR: LBC
