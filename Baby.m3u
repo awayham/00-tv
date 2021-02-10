@@ -41,31 +41,24 @@ https://hiplayer.hibridcdn.net/p/rotana-kids
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="LEBANON AR",=====LEBANON========
 http://iptvh.it/satcom-logo1
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="LEBANON AR",AR: AL JADEED HD
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Lebanon AR",=====Lebanon========
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="KIDS AR",AR: AL JADEED HD
 http://teledunet.com:25461/live/tdn/16491686130/10008.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1148.png"group-title="KIDS AR",AR: AL JADEED
 http://teledunet.com:25461/live/tdn/16491677270/1148.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1147.png"group-title="KIDS AR",AR: MTV
 http://teledunet.com:25461/live/tdn/16491677269/1147.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10009.png"group-title="KIDS AR",AR: MTV HD
 http://teledunet.com:25461/live/tdn/16491686131/10009.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50706.png"group-title="KIDS AR",AR: LBC HD
 http://teledunet.com:25461/live/tdn/16491726828/50706.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1145.png"group-title="KIDS AR",AR: LBC
 http://teledunet.com:25461/live/tdn/16491677267/1145.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10012.png"group-title="KIDS AR",AR: TL
 http://teledunet.com:25461/live/tdn/16491686134/10012.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10004.png"group-title="KIDS AR",AR: LBC
 http://teledunet.com:25461/live/tdn/16491686126/10004.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="LEBANON AR",AR: AL JADEED
-http://teledunet.com:25461/live/tdn/5130686540/1148.m3u8
-#EXTINF:0 tvg-logo="https://goo.gl/Ggp24v"group-title="LEBANON AR",AR: MTV
-http://teledunet.com:25461/live/tdn/5130686539/1147.m3u8
-http://teledunet.com:25461/live/tdn/5497164067/1147.m3u8
-#EXTINF:0 tvg-logo="https://goo.gl/Ggp24v"group-title="LEBANON AR",AR: MTV
-http://best.teledunet.com:8080/live/tdn/5497164067/1147.m3u8
-#EXTINF:0 tvg-logo="https://goo.gl/Ggp24v"group-title="LEBANON AR",AR: MTV HD
-http://teledunet.com:25461/live/tdn/5497172929/10009.m3u8
 
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50706.png"group-title="LEBANON AR",AR: LBC HD
-http://teledunet.com:25461/live/tdn/5130736098/50706.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50706.png"group-title="LEBANON AR",AR: LBC
-http://teledunet.com:25461/live/tdn/5130686537/1145.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10012.png"group-title="LEBANON AR",AR: TL
-http://teledunet.com:25461/live/tdn/5313934168/10012.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Movies",=====Movies========
 http://iptvh.it/satcom-logo1
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies",Dubai One (1080p)
