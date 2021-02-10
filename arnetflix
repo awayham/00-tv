@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Netflix AR",=====Netflix========
+http://iptvh.it/satcom-logo1
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1085.png"group-title="Netflix AR",AR: Netflix Arabia 1
+http://teledunet.com:25461/live/tdn/5313925241/1085.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1088.png"group-title="Netflix AR",AR: Netflix Horror 1
+http://teledunet.com:25461/live/tdn/5313925244/1088.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1059.png"group-title="Netflix AR",AR: Netflix Action 2
+http://teledunet.com:25461/live/tdn/5313925215/1059.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1094.png"group-title="Netflix AR",AR: Netflix Drama 1
+http://teledunet.com:25461/live/tdn/5313925250/1094.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1061.png"group-title="Netflix AR",AR: Netflix Drama 2
+http://teledunet.com:25461/live/tdn/5313925217/1061.m3u8
