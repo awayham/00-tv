@@ -1,0 +1,34 @@
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="SHAHID AR",=====SHAHID========
+http://iptvh.it/satcom-logo1
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10309.png"group-title="SHAHID AR",AR: Shahid Arabia 1
+http://teledunet.com:25461/live/tdn/5313934465/10309.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1058.png"group-title="SHAHID AR",AR: Shahid Action 1
+http://teledunet.com:25461/live/tdn/5313925214/1058.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1059.png"group-title="SHAHID AR",AR: Shahid Action 2
+http://teledunet.com:25461/live/tdn/5313925215/1059.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1060.png"group-title="SHAHID AR",AR: Shahid Drama 1
+http://teledunet.com:25461/live/tdn/5313925216/1060.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1061.png"group-title="SHAHID AR",AR: Shahid Drama 2
+http://teledunet.com:25461/live/tdn/5313925217/1061.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1062.png"group-title="SHAHID AR",AR: Shahid Comedy 1
+http://teledunet.com:25461/live/tdn/5313925218/1062.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1067.png"group-title="SHAHID AR",AR: Shahid Crime 1
+http://s1.teledunet.com:8080/live/tdn/5313925223/1067.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1069.png"group-title="SHAHID AR",AR: Shahid Doc 1
+http://teledunet.com:25461/live/tdn/5313925225/1069.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1071.png"group-title="SHAHID AR",AR: Shahid SCI FI 1
+http://teledunet.com:25461/live/tdn/5313925227/1071.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1073.png"group-title="SHAHID AR",AR: Shahid Horror 1
+http://teledunet.com:25461/live/tdn/5313925229/1073.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1079.png"group-title="SHAHID AR",AR: Shahid Aflam 1
+http://teledunet.com:25461/live/tdn/5313925235/1079.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1080.png"group-title="SHAHID AR",AR: Shahid Aflam 2
+http://teledunet.com:25461/live/tdn/5313925236/1080.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1081.png"group-title="SHAHID AR",AR: Shahid Cinema
+http://teledunet.com:25461/live/tdn/5313925237/1081.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1082.png"group-title="SHAHID AR",AR: Shahid Zaman
+http://teledunet.com:25461/live/tdn/5313925238/1082.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1083.png"group-title="SHAHID AR",AR: Shahid ROp
+http://teledunet.com:25461/live/tdn/5313925239/1083.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1084.png"group-title="SHAHID AR",AR: Shahid Action
+http://teledunet.com:25461/live/tdn/5313925240/1084.m3u8
