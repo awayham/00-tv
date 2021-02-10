@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS AR",=====KIDS========
+ http://iptvh.it/satcom-logo1 
   #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1134.png"group-title="KIDS AR",AR: MBC 3
 http://teledunet.com:25461/live/tdn/16491677256/1134.m3u8
   #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50338.png"group-title="KIDS AR",AR: Song
@@ -336,41 +337,42 @@ http://best.teledunet.com:8080/live/tdn/5313925180/1024.m3u8
 http://teledunet.com:25461/live/tdn/5313934240/10084.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN AR",=====OSN========
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10125.png"group-title="OSN AR",AR: test
+http://iptvh.it/satcom-logo1
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10125.png"group-title="OSN AR",AR: OSN Natonal GE
 http://teledunet.com:25461/live/tdn/16491686247/10125.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101450.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101450.png"group-title="OSN AR",AR: OSN Alyawm
 http://teledunet.com:25461/live/tdn/16491777572/101450.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101458.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101458.png"group-title="OSN AR",AR: OSN Yahala Hd
 http://teledunet.com:25461/live/tdn/16491777580/101458.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1044.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1044.png"group-title="OSN AR",AR: OSN Yahala
 http://teledunet.com:25461/live/tdn/16491677166/1044.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101448.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101448.png"group-title="OSN AR",AR: OSN Yahala Oula Hd
 http://teledunet.com:25461/live/tdn/16491777570/101448.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1045.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1045.png"group-title="OSN AR",AR: OSN Yahala Oula
 http://teledunet.com:25461/live/tdn/16491677167/1045.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014480.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014480.png"group-title="OSN AR",AR: OSN Yahala Cinema Hd
 http://teledunet.com:25461/live/tdn/16492690602/1014480.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1046.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1046.png"group-title="OSN AR",AR: OSN Yahala Cinema
 http://teledunet.com:25461/live/tdn/16491677168/1046.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102264.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102264.png"group-title="OSN AR",AR: OSN Musalsalat HD
 http://teledunet.com:25461/live/tdn/16491778386/102264.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1047.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1047.png"group-title="OSN AR",AR:  OSN Musalsalat
 http://teledunet.com:25461/live/tdn/16491677169/1047.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102257.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102257.png"group-title="OSN AR",AR: OSN comedy Hd
 http://teledunet.com:25461/live/tdn/16491778379/102257.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1022570.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1022570.png"group-title="OSN AR",AR: OSN comedy
 http://teledunet.com:25461/live/tdn/16492698692/1022570.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1048.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1048.png"group-title="OSN AR",AR: OSN comedy Central
 http://teledunet.com:25461/live/tdn/16491677170/1048.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102256.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102256.png"group-title="OSN AR",AR: OSN Action Hd
 http://teledunet.com:25461/live/tdn/16491778378/102256.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1022560.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1022560.png"group-title="OSN AR",AR: OSN Action
 http://teledunet.com:25461/live/tdn/16492698682/1022560.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10295.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10295.png"group-title="OSN AR",AR: OSN Cinema 1
 http://teledunet.com:25461/live/tdn/16491686417/10295.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1050.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1050.png"group-title="OSN AR",AR: OSN Cinema 2
 http://teledunet.com:25461/live/tdn/16491677172/1050.m3u8
-  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101514.png"group-title="OSN AR",AR: test
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101514.png"group-title="OSN AR",AR: ART Aflam 1
 http://teledunet.com:25461/live/tdn/16491777636/101514.m3u8
   #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101515.png"group-title="OSN AR",AR: ART Aflam 2
 http://teledunet.com:25461/live/tdn/16491777637/101515.m3u8
@@ -392,8 +394,8 @@ http://teledunet.com:25461/live/tdn/16491778389/102267.m3u8
 http://teledunet.com:25461/live/tdn/16492690732/1014610.m3u8
   #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10309.png"group-title="OSN AR",AR: OSN TLC
 http://teledunet.com:25461/live/tdn/16491686431/10309.m3u8
-
 https://iptv--iptv.repl.co/Arabic/SBC
+
  #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="SHAHID AR",=====SHAHID========
 http://iptvh.it/satcom-logo1
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10309.png"group-title="SHAHID AR",AR: Shahid Arabia 1
@@ -428,6 +430,7 @@ http://teledunet.com:25461/live/tdn/5313925238/1082.m3u8
 http://teledunet.com:25461/live/tdn/5313925239/1083.m3u8
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1084.png"group-title="SHAHID AR",AR: Shahid Action
 http://teledunet.com:25461/live/tdn/5313925240/1084.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Netflix AR",=====Netflix========
 http://iptvh.it/satcom-logo1
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1085.png"group-title="Netflix AR",AR: Netflix Arabia 1
