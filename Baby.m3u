@@ -344,22 +344,33 @@ http://teledunet.com:25461/live/tdn/16491677122/1000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/music.png" group-title="Rotana",Rotana Music (1080p)
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Bein",=====Bein========
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Bein AR",=====Bein========
 http://iptvh.it/satcom-logo1
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014614.png"group-title="Bein",AR: Bein Series 1
-http://teledunet.com:25461/live/tdn/5314938770/1014614.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1021.png"group-title="Bein",AR: Bein Gourmet
-http://best.teledunet.com:8080/live/tdn/5313925177/1021.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101473.png"group-title="Bein",AR: Bein Fatafit
-http://teledunet.com:25461/live/tdn/5314025629/101473.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1022.png"group-title="Bein",AR: Bein Rewayat
-http://teledunet.com:25461/live/tdn/5313925178/1022.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1023.png"group-title="Bein",AR: Bein Fox Action
-http://teledunet.com:25461/live/tdn/5313925178/1023.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1024.png"group-title="Bein",AR: Bein Fox Crime
-http://best.teledunet.com:8080/live/tdn/5313925180/1024.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10084.png"group-title="Bein",AR: Bein Fox Action 2
-http://teledunet.com:25461/live/tdn/5313934240/10084.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014614.png"group-title="Bein AR",AR: Bein Series 1
+http://teledunet.com:25461/live/tdn/16492690736/1014614.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1021.png"group-title="Bein AR",AR: Bein Gourmet
+http://teledunet.com:25461/live/tdn/16491677143/1021.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/101473.png"group-title="Bein AR",AR: Bein Fatafit
+http://teledunet.com:25461/live/tdn/16491777595/101473.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1022.png"group-title="Bein AR",AR: Bein Rewayat
+http://teledunet.com:25461/live/tdn/16491677144/1022.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1023.png"group-title="Bein AR",AR: Bein Fox Action
+http://teledunet.com:25461/live/tdn/16491677145/1023.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1024.png"group-title="Bein AR",AR: Bein Fox Crime
+http://teledunet.com:25461/live/tdn/16491677146/1024.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10084.png"group-title="Bein AR",AR: Bein Fox Action 2
+http://teledunet.com:25461/live/tdn/16491686206/10084.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10085.png"group-title="Bein AR",AR: 10085
+http://teledunet.com:25461/live/tdn/16491686207/10085.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1020.png"group-title="Bein AR",AR: 1020
+http://teledunet.com:25461/live/tdn/16491677142/1020.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1027.png"group-title="Bein AR",AR: 1027
+http://teledunet.com:25461/live/tdn/16491677149/1027.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1019.png"group-title="Bein AR",AR: 1019
+http://teledunet.com:25461/live/tdn/16491677141/1019.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014615.png"group-title="Bein AR",AR: 
+http://teledunet.com:25461/live/tdn/16492690737/1014615.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN AR",=====OSN========
 http://iptvh.it/satcom-logo1
