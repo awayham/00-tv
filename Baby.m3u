@@ -316,22 +316,34 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
  https://iptv--iptv.repl.co/Arabic/SBC
  #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Music AR",=====Music========
 http://iptvh.it/satcom-logo1
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10010.png"group-title="Music AR",AR: 1
-http://teledunet.com:25461/live/tdn/5313934166/10010.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10014.png"group-title="Music AR",AR: Hawacom
-http://teledunet.com:25461/live/tdn/5313934170/10014.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1150.png"group-title="Music AR",AR: Arabica
-http://teledunet.com:25461/live/tdn/5313925306/1150.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014623.png"group-title="Music AR",AR: AGHANI
-http://teledunet.com:25461/live/tdn/5314938779/1014623.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50299.png"group-title="Music AR",AR: Music
-http://teledunet.com:25461/live/tdn/5313974455/50299.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102276.png"group-title="Music AR",AR: Fann
-http://teledunet.com:25461/live/tdn/5314026432/102276.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014589.png"group-title="Music AR",AR: Osn Al Safwa
-http://teledunet.com:25461/live/tdn/5314938745/1014589.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10010.png"group-title="Music AR",AR:  1
+http://teledunet.com:25461/live/tdn/16491686132/10010.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10014.png"group-title="Music AR",AR: Hawacom
+http://teledunet.com:25461/live/tdn/16491686136/10014.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1150.png"group-title="Music AR",AR: Arabica
+http://teledunet.com:25461/live/tdn/16491677272/1150.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014623.png"group-title="Music AR",AR: AGHANI
+http://teledunet.com:25461/live/tdn/16492690745/1014623.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50299.png"group-title="Music AR",AR: Music
+http://teledunet.com:25461/live/tdn/16491726421/50299.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102276.png"group-title="Music AR",AR: Fann
+http://teledunet.com:25461/live/tdn/16491778398/102276.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014598.png"group-title="Music AR",AR: 1014598
+http://teledunet.com:25461/live/tdn/16492690720/1014598.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014589.png"group-title="Music AR",AR: Osn Al Safwa
+http://teledunet.com:25461/live/tdn/16492690711/1014589.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014627.png"group-title="Music AR",AR: Osn Al Safwa
+http://teledunet.com:25461/live/tdn/16492690749/1014627.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/200.png"group-title="Music AR",AR: 200
+http://teledunet.com:25461/live/tdn/16491676322/200.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/900.png"group-title="Music AR",AR: 900
+http://teledunet.com:25461/live/tdn/16491677022/900.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1000.png"group-title="Music AR",AR: 1000
+http://teledunet.com:25461/live/tdn/16491677122/1000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/music.png" group-title="Rotana",Rotana Music (1080p)
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Bein",=====Bein========
 http://iptvh.it/satcom-logo1
 #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014614.png"group-title="Bein",AR: Bein Series 1
