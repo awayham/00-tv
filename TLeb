@@ -1,0 +1,17 @@
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Lebanon AR",=====Lebanon========
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="KIDS AR",AR: AL JADEED HD
+http://teledunet.com:25461/live/tdn/16491686130/10008.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1148.png"group-title="KIDS AR",AR: AL JADEED
+http://teledunet.com:25461/live/tdn/16491677270/1148.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1147.png"group-title="KIDS AR",AR: MTV
+http://teledunet.com:25461/live/tdn/16491677269/1147.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10009.png"group-title="KIDS AR",AR: MTV HD
+http://teledunet.com:25461/live/tdn/16491686131/10009.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50706.png"group-title="KIDS AR",AR: LBC HD
+http://teledunet.com:25461/live/tdn/16491726828/50706.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1145.png"group-title="KIDS AR",AR: LBC
+http://teledunet.com:25461/live/tdn/16491677267/1145.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10012.png"group-title="KIDS AR",AR: TL
+http://teledunet.com:25461/live/tdn/16491686134/10012.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10004.png"group-title="KIDS AR",AR: LBC
+http://teledunet.com:25461/live/tdn/16491686126/10004.m3u8
