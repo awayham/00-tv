@@ -1,0 +1,16 @@
+ #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Music AR",=====Music========
+http://iptvh.it/satcom-logo1
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10010.png"group-title="Music AR",AR: 1
+http://teledunet.com:25461/live/tdn/5313934166/10010.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10014.png"group-title="Music AR",AR: Hawacom
+http://teledunet.com:25461/live/tdn/5313934170/10014.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1150.png"group-title="Music AR",AR: Arabica
+http://teledunet.com:25461/live/tdn/5313925306/1150.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014623.png"group-title="Music AR",AR: AGHANI
+http://teledunet.com:25461/live/tdn/5314938779/1014623.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/50299.png"group-title="Music AR",AR: Music
+http://teledunet.com:25461/live/tdn/5313974455/50299.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/102276.png"group-title="Music AR",AR: Fann
+http://teledunet.com:25461/live/tdn/5314026432/102276.m3u8
+#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1014589.png"group-title="Music AR",AR: Osn Al Safwa
+http://teledunet.com:25461/live/tdn/5314938745/1014589.m3u8
