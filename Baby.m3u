@@ -42,7 +42,6 @@ https://hiplayer.hibridcdn.net/p/rotana-kids
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="LEBANON AR",=====LEBANON========
 http://iptvh.it/satcom-logo1
-#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Lebanon AR",=====Lebanon========
   #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="KIDS AR",AR: AL JADEED HD
 http://teledunet.com:25461/live/tdn/16491686130/10008.m3u8
   #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1148.png"group-title="KIDS AR",AR: AL JADEED
@@ -122,20 +121,34 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="NEWS AR",Al Yaum
 https://besttv650-myflix-alyaum.aoslive.it.best-tv.com/egress/bhandler/ikomg/alyaum_tv/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="MBC AR",=====MBC========
 http://iptvh.it/satcom-logo1
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006115.png"group-title="MBC AR",AR: MBC 1
-http://teledunet.com:25461/live/tdn/5132691507/2006115.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1135.png"group-title="MBC AR",AR: MBC 4
-http://teledunet.com:25461/live/tdn/5130686527/1135.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1133.png"group-title="MBC AR",AR: MBC 2
-http://best.teledunet.com:8080/live/tdn/5130686525/1133.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1138.png"group-title="MBC AR",AR: MBC Drama
-http://teledunet.com:25461/live/tdn/5130686530/1138.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1137.png"group-title="MBC AR",AR: MBC Action
-http://teledunet.com:25461/live/tdn/5130686529/1137.m3u8
-#EXTINF:0 tvg-logo="http://www.teledunet.com/logo/100950.png"group-title="MBC AR",AR: MBC Drama+
-http://teledunet.com:25461/live/tdn/5130786342/100950.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006115.png"group-title="MBC AR",AR: MBC 1
+http://teledunet.com:25461/live/tdn/16493682237/2006115.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1135.png"group-title="MBC AR",AR: MBC 4
+http://teledunet.com:25461/live/tdn/16491677257/1135.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1133.png"group-title="MBC AR",AR: MBC 2
+http://teledunet.com:25461/live/tdn/16491677255/1133.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1138.png"group-title="MBC AR",AR: MBC Drama
+http://teledunet.com:25461/live/tdn/16491677260/1138.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/100950.png"group-title="MBC AR",AR: MBC Drama+
+http://teledunet.com:25461/live/tdn/16491777072/100950.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/100951.png"group-title="MBC AR",AR: MBC
+http://teledunet.com:25461/live/tdn/16491777073/100951.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/100952.png"group-title="MBC AR",AR: MBC
+http://teledunet.com:25461/live/tdn/16491777074/100952.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/2006116.png"group-title="MBC AR",AR: MBC
+http://teledunet.com:25461/live/tdn/16493682238/2006116.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1130.png"group-title="MBC AR",AR: MBC
+http://teledunet.com:25461/live/tdn/16491677252/1130.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1131.png"group-title="MBC AR",AR: MBC
+http://teledunet.com:25461/live/tdn/16491677253/1131.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1132.png"group-title="MBC AR",AR: MBC
+http://teledunet.com:25461/live/tdn/16491677254/1132.m3u8
+  #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1140.png"group-title="MBC AR",AR: MBC
+http://teledunet.com:25461/live/tdn/16491677262/1140.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Arabic AR",=====Arabic========
 http://iptvh.it/satcom-logo1
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip"
