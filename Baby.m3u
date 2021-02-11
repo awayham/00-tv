@@ -39,6 +39,8 @@ http://teledunet.com:25461/live/tdn/20158499384/2006346.m3u8
 http://teledunet.com:25461/live/tdn/20158499386/2006348.m3u8
   #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/1049.png"group-title="KIDS AR",AR: OSn KIDS
 http://teledunet.com:25461/live/tdn/20156494087/1049.m3u8
+ #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10013.png"group-title="KIDS AR",AR: Taha
+http://teledunet.com:8080/live/tdn/20156503051/10013.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Lebanon AR",=====Lebanon========
 http://iptvh.it/satcom-logo1
   #EXTINF:0 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="KIDS AR",AR: AL JADEED HD
