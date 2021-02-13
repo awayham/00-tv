@@ -1,4 +1,324 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS AR",=====KIDS========
+http://iptvh.it/satcom-logo1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="KIDS AR",Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="KIDS AR",Spacetoon (576p)
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="KIDS AR",MBC 3 (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="KIDS AR",MBC 3 (1080p)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="KIDS AR",Cartoon Network Arabic (1080p)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="KIDS AR",Rotana Kids (1080p)
+https://hiplayer.hibridcdn.net/p/rotana-kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="KIDS AR",Rotana Kids (1080p)
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1134.png"group-title="KIDS AR",AR: MBC 3
+http://teledunet.com:25461/live/tdn/242428945554/1134.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/50338.png"group-title="KIDS AR",AR: Song
+http://teledunet.com:25461/live/tdn/242428994758/50338.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/101528.png"group-title="KIDS AR",AR: Majed
+http://teledunet.com:25461/live/tdn/242429045948/101528.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/101544.png"group-title="KIDS AR",AR: Baraem
+http://teledunet.com:25461/live/tdn/242429045964/101544.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1119.png"group-title="KIDS AR",AR: JEEM
+http://teledunet.com:25461/live/tdn/242428945539/1119.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10116.png"group-title="KIDS AR",AR: KARAMISH
+http://teledunet.com:25461/live/tdn/242428954536/10116.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1117.png"group-title="KIDS AR",AR: khalj
+http://teledunet.com:25461/live/tdn/242428945537/1117.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/2006274.png"group-title="KIDS AR",AR: PATROL
+http://teledunet.com:25461/live/tdn/242430950694/2006274.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/2006275.png"group-title="KIDS AR",AR: TOM AND J
+http://teledunet.com:25461/live/tdn/242430950695/2006275.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/2006346.png"group-title="KIDS AR",AR: MiKY
+http://teledunet.com:25461/live/tdn/242430950766/2006346.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/2006348.png"group-title="KIDS AR",AR: Song
+http://teledunet.com:25461/live/tdn/242430950768/2006348.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1049.png"group-title="KIDS AR",AR: OSn KIDS
+http://teledunet.com:25461/live/tdn/242428945469/1049.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Lebanon AR",=====Lebanon========
+http://iptvh.it/satcom-logo1
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10008.png"group-title="KIDS AR",AR: AL JADEED HD
+http://teledunet.com:25461/live/tdn/242428954428/10008.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1148.png"group-title="KIDS AR",AR: AL JADEED
+http://teledunet.com:25461/live/tdn/242428945568/1148.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1147.png"group-title="KIDS AR",AR: MTV
+http://teledunet.com:25461/live/tdn/242428945567/1147.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10009.png"group-title="KIDS AR",AR: MTV HD
+http://teledunet.com:25461/live/tdn/242428954429/10009.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/50706.png"group-title="KIDS AR",AR: LBC HD
+http://teledunet.com:25461/live/tdn/242428995126/50706.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1145.png"group-title="KIDS AR",AR: LBC
+http://teledunet.com:25461/live/tdn/242428945565/1145.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10012.png"group-title="KIDS AR",AR: TL
+http://teledunet.com:25461/live/tdn/242428954432/10012.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10004.png"group-title="KIDS AR",AR: LBC
+http://teledunet.com:25461/live/tdn/242428954424/10004.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN AR",=====OSN========
+http://iptvh.it/satcom-logo1
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10125.png"group-title="KIDS AR",AR: OSN Natonal GE
+http://teledunet.com:25461/live/tdn/242428954545/10125.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/101450.png"group-title="KIDS AR",AR: OSN Alyawm
+http://teledunet.com:25461/live/tdn/242429045870/101450.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/101458.png"group-title="KIDS AR",AR: OSN Yahala Hd
+http://teledunet.com:25461/live/tdn/242429045878/101458.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1044.png"group-title="KIDS AR",AR: OSN Yahala
+http://teledunet.com:25461/live/tdn/242428945464/1044.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/101448.png"group-title="KIDS AR",AR: OSN Yahala Oula Hd
+http://teledunet.com:25461/live/tdn/242429045868/101448.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1045.png"group-title="KIDS AR",AR: OSN Yahala Oula
+http://teledunet.com:25461/live/tdn/242428945465/1045.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1014480.png"group-title="KIDS AR",AR: OSN Yahala Cinema Hd
+http://teledunet.com:25461/live/tdn/242429958900/1014480.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1046.png"group-title="KIDS AR",AR: OSN Yahala Cinema
+http://teledunet.com:25461/live/tdn/242428945466/1046.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/102264.png"group-title="KIDS AR",AR: OSN Musalsalat HD
+http://teledunet.com:25461/live/tdn/242429046684/102264.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1047.png"group-title="KIDS AR",AR:  OSN Musalsalat
+http://teledunet.com:25461/live/tdn/242428945467/1047.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/102257.png"group-title="KIDS AR",AR: OSN comedy Hd
+http://teledunet.com:25461/live/tdn/242429046677/102257.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1022570.png"group-title="KIDS AR",AR: OSN comedy
+http://teledunet.com:25461/live/tdn/242429966990/1022570.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1048.png"group-title="KIDS AR",AR: OSN comedy Central
+http://teledunet.com:25461/live/tdn/242428945468/1048.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/102256.png"group-title="KIDS AR",AR: OSN Action Hd
+http://teledunet.com:25461/live/tdn/242429046676/102256.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1022560.png"group-title="KIDS AR",AR: OSN Action
+http://teledunet.com:25461/live/tdn/242429966980/1022560.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10295.png"group-title="KIDS AR",AR: OSN Cinema 1
+http://teledunet.com:25461/live/tdn/242428954715/10295.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1050.png"group-title="KIDS AR",AR: OSN Cinema 2
+http://teledunet.com:25461/live/tdn/242428945470/1050.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/101514.png"group-title="KIDS AR",AR: ART Aflam 1
+http://teledunet.com:25461/live/tdn/242429045934/101514.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/101515.png"group-title="KIDS AR",AR: ART Aflam 2
+http://teledunet.com:25461/live/tdn/242429045935/101515.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1051.png"group-title="KIDS AR",AR: ART Cinema
+http://teledunet.com:25461/live/tdn/242428945471/1051.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/101520.png"group-title="KIDS AR",AR: ART Hikayat 1
+http://teledunet.com:25461/live/tdn/242429045940/101520.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/102270.png"group-title="KIDS AR",AR: ART Hikayat 2
+http://teledunet.com:25461/live/tdn/242429046690/102270.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/20330.png"group-title="KIDS AR",AR: Start Movies
+http://teledunet.com:25461/live/tdn/242428964750/20330.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1053.png"group-title="KIDS AR",AR: OSN Movies
+http://teledunet.com:25461/live/tdn/242428945473/1053.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/20299.png"group-title="KIDS AR",AR: Start World
+http://teledunet.com:25461/live/tdn/242428964719/20299.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/102267.png"group-title="KIDS AR",AR: OSN Movies First
+http://teledunet.com:25461/live/tdn/242429046687/102267.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1014610.png"group-title="KIDS AR",AR: OSN Seris First
+http://teledunet.com:25461/live/tdn/242429959030/1014610.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10309.png"group-title="KIDS AR",AR: OSN TLC
+http://teledunet.com:25461/live/tdn/242428954729/10309.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Shahid AR",=====Shahid========
+http://iptvh.it/satcom-logo1
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10309.png"group-title="KIDS AR",AR: Shahid Arabia 1
+http://teledunet.com:25461/live/tdn/242428954729/10309.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1058.png"group-title="KIDS AR",AR: Shahid Action 1
+http://teledunet.com:25461/live/tdn/242428945478/1058.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1059.png"group-title="KIDS AR",AR: Shahid Action 2
+http://teledunet.com:25461/live/tdn/242428945479/1059.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1060.png"group-title="KIDS AR",AR: Shahid Drama 1
+http://teledunet.com:25461/live/tdn/242428945480/1060.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1061.png"group-title="KIDS AR",AR: Shahid Drama 2
+http://teledunet.com:25461/live/tdn/242428945481/1061.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1062.png"group-title="KIDS AR",AR: Shahid Comedy 1
+http://teledunet.com:25461/live/tdn/242428945482/1062.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1063.png"group-title="KIDS AR",AR: Shahid Comedy 2
+http://teledunet.com:25461/live/tdn/242428945483/1063.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1064.png"group-title="KIDS AR",AR: Shahid Adv
+http://teledunet.com:25461/live/tdn/242428945484/1064.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1067.png"group-title="KIDS AR",AR: Shahid Crime 1
+http://teledunet.com:25461/live/tdn/242428945487/1067.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1069.png"group-title="KIDS AR",AR: Shahid Doc 1
+http://teledunet.com:25461/live/tdn/242428945489/1069.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1070.png"group-title="KIDS AR",AR: Shahid Doc 2
+http://teledunet.com:25461/live/tdn/242428945490/1070.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1071.png"group-title="KIDS AR",AR:  Shahid SCI FI 1
+http://teledunet.com:25461/live/tdn/242428945491/1071.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1072.png"group-title="KIDS AR",AR: Shahid SCI FI 2
+http://teledunet.com:25461/live/tdn/242428945492/1072.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1073.png"group-title="KIDS AR",AR: Shahid Horror 1
+http://teledunet.com:25461/live/tdn/242428945493/1073.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1079.png"group-title="KIDS AR",AR: Shahid Aflam 1
+http://teledunet.com:25461/live/tdn/242428945499/1079.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1080.png"group-title="KIDS AR",AR: Shahid Aflam 2
+http://teledunet.com:25461/live/tdn/242428945500/1080.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1081.png"group-title="KIDS AR",AR: Shahid Cinema
+http://teledunet.com:25461/live/tdn/242428945501/1081.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1082.png"group-title="KIDS AR",AR: Shahid Zaman
+http://teledunet.com:25461/live/tdn/242428945502/1082.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1083.png"group-title="KIDS AR",AR: Shahid Horror
+http://teledunet.com:25461/live/tdn/242428945503/1083.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1084.png"group-title="KIDS AR",AR: Shahid Action
+http://teledunet.com:25461/live/tdn/242428945504/1084.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Netflix AR",=====Netflix========
+http://iptvh.it/satcom-logo1
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1085.png"group-title="KIDS AR",AR: Shahid Aciton 1
+http://teledunet.com:25461/live/tdn/242428945505/1085.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1088.png"group-title="KIDS AR",AR: Netflix Horror 1
+http://teledunet.com:25461/live/tdn/242428945508/1088.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1059.png"group-title="KIDS AR",AR: Netflix Action 2
+http://teledunet.com:25461/live/tdn/242428945479/1059.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1094.png"group-title="KIDS AR",AR: Netflix Drama 1
+http://teledunet.com:25461/live/tdn/242428945514/1094.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1061.png"group-title="KIDS AR",AR: Netflix Drama 2
+http://teledunet.com:25461/live/tdn/242428945481/1061.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1060.png"group-title="KIDS AR",AR: Netflix
+http://teledunet.com:25461/live/tdn/242428945480/1060.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1086.png"group-title="KIDS AR",AR: Netflix
+http://teledunet.com:25461/live/tdn/242428945506/1086.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1087.png"group-title="KIDS AR",AR: Netflix
+http://teledunet.com:25461/live/tdn/242428945507/1087.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1089.png"group-title="KIDS AR",AR: Netflix
+http://teledunet.com:25461/live/tdn/242428945509/1089.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1090.png"group-title="KIDS AR",AR: Netflix
+http://teledunet.com:25461/live/tdn/242428945510/1090.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1091.png"group-title="KIDS AR",AR: Netflix
+http://teledunet.com:25461/live/tdn/242428945511/1091.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1092.png"group-title="KIDS AR",AR: Netflix
+http://teledunet.com:25461/live/tdn/242428945512/1092.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="MBC AR",=====MBC========
+http://iptvh.it/satcom-logo1
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/2006115.png"group-title="KIDS AR",AR: MBC 1
+http://teledunet.com:25461/live/tdn/242430950535/2006115.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1135.png"group-title="KIDS AR",AR: MBC 4
+http://teledunet.com:25461/live/tdn/242428945555/1135.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1133.png"group-title="KIDS AR",AR: MBC 2
+http://teledunet.com:25461/live/tdn/242428945553/1133.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1138.png"group-title="KIDS AR",AR: MBC Drama
+http://teledunet.com:25461/live/tdn/242428945558/1138.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/100950.png"group-title="KIDS AR",AR: MBC Drama+
+http://teledunet.com:25461/live/tdn/242429045370/100950.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/100951.png"group-title="KIDS AR",AR: MBC
+http://teledunet.com:25461/live/tdn/242429045371/100951.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/100952.png"group-title="KIDS AR",AR: Acwam
+http://teledunet.com:25461/live/tdn/242429045372/100952.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/2006116.png"group-title="KIDS AR",AR: Acwam
+http://teledunet.com:25461/live/tdn/242430950536/2006116.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1130.png"group-title="KIDS AR",AR: MBC
+http://teledunet.com:25461/live/tdn/242428945550/1130.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1131.png"group-title="KIDS AR",AR: MBC
+http://teledunet.com:25461/live/tdn/242428945551/1131.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1132.png"group-title="KIDS AR",AR: MBC
+http://teledunet.com:25461/live/tdn/242428945552/1132.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1140.png"group-title="KIDS AR",AR: MBC
+http://teledunet.com:25461/live/tdn/242428945560/1140.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Music AR",=====Music========
+http://iptvh.it/satcom-logo1
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10010.png"group-title="KIDS AR",AR:  1
+http://teledunet.com:25461/live/tdn/242428954430/10010.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10014.png"group-title="KIDS AR",AR: Hawacom
+http://teledunet.com:25461/live/tdn/242428954434/10014.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1150.png"group-title="KIDS AR",AR: Arabica
+http://teledunet.com:25461/live/tdn/242428945570/1150.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1014623.png"group-title="KIDS AR",AR: AGHANI
+http://teledunet.com:25461/live/tdn/242429959043/1014623.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/50299.png"group-title="KIDS AR",AR: Music
+http://teledunet.com:25461/live/tdn/242428994719/50299.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/102276.png"group-title="KIDS AR",AR: Fann
+http://teledunet.com:25461/live/tdn/242429046696/102276.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1014598.png"group-title="KIDS AR",AR: 1014598
+http://teledunet.com:25461/live/tdn/242429959018/1014598.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1014589.png"group-title="KIDS AR",AR: Osn Al Safwa
+http://teledunet.com:25461/live/tdn/242429959009/1014589.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1014627.png"group-title="KIDS AR",AR: Osn Al Safwa
+http://teledunet.com:25461/live/tdn/242429959047/1014627.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/200.png"group-title="KIDS AR",AR: 200
+http://teledunet.com:25461/live/tdn/242428944620/200.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/900.png"group-title="KIDS AR",AR: 900
+http://teledunet.com:25461/live/tdn/242428945320/900.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1000.png"group-title="KIDS AR",AR: 1000
+http://teledunet.com:25461/live/tdn/242428945420/1000.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Bein AR",=====Bein========
+http://iptvh.it/satcom-logo1
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1014614.png"group-title="KIDS AR",AR: Bein Series 1
+http://teledunet.com:25461/live/tdn/242429959034/1014614.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1021.png"group-title="KIDS AR",AR: Bein Gourmet
+http://teledunet.com:25461/live/tdn/242428945441/1021.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/101473.png"group-title="KIDS AR",AR: Bein Fatafit
+http://teledunet.com:25461/live/tdn/242429045893/101473.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1022.png"group-title="KIDS AR",AR: Bein Rewayat
+http://teledunet.com:25461/live/tdn/242428945442/1022.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1023.png"group-title="KIDS AR",AR: Bein Fox Action
+http://teledunet.com:25461/live/tdn/242428945443/1023.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1024.png"group-title="KIDS AR",AR: Bein Fox Crime
+http://teledunet.com:25461/live/tdn/242428945444/1024.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10084.png"group-title="KIDS AR",AR: Bein Fox Action 2
+http://teledunet.com:25461/live/tdn/242428954504/10084.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/10085.png"group-title="KIDS AR",AR: Bein Move 3
+http://teledunet.com:25461/live/tdn/242428954505/10085.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1020.png"group-title="KIDS AR",AR: Bein
+http://teledunet.com:25461/live/tdn/242428945440/1020.m3u8
+#EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1027.png"group-title="KIDS AR",AR: Bein
+http://teledunet.com:25461/live/tdn/242428945447/1027.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Movies",=====Movies========
+http://iptvh.it/satcom-logo1
+#EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies",Dubai One (1080p)
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 (1080p)
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action (1080p)
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max (1080p)
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="",MBC Persia (1080p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS AR",=====NEWS========
+http://iptvh.it/satcom-logo1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/01.png"group-title="NEWS AR",AR: Aljazeera HD
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/03.png"group-title="NEWS AR",AR: Aljazeera Mubasher
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/04.jpg"group-title="NEWS AR",AR: Aljazeera Documentary
+http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/23.png"group-title="NEWS AR",AR: Elsharq
+https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/06.jpg"group-title="NEWS AR",AR: Mekameleen
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/07.jpg"group-title="NEWS AR",AR: Watan
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/08.jpg"group-title="NEWS AR",AR: Alqanat 9
+https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_b13064000_slENG.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/09.jpg"group-title="NEWS AR",AR: Daawah
+http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/10.jpg"group-title="NEWS AR",AR: Alhiwar
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b2796000.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg"group-title="NEWS AR",AR: Qatar TV
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/master720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/11.jpg"group-title="NEWS AR",AR: Al Araby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg"group-title="NEWS AR",AR: TRT Arabic
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/13.jpg"group-title="NEWS AR",AR: BBC Arabic
+http://vs-hls-ww-live.akamaized.net/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa4=128000-video=5070016.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/14.jpg"group-title="NEWS AR",AR: France 24 Arabic
+http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/15.jpg"group-title="NEWS AR",AR: DW Arabic
+https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg"group-title="NEWS AR",AR: Alaqsa
+https://live-1.linuxway.info/aqsatv/live/tv/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg""group-title="Religious",Al Quran Al Kareem
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist_w2079433332.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg"group-title="Religious",Iqraa
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/20.png",Al Sunna Al Nabawiya
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="NEWS AR",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="NEWS AR",Al Arabiya (1080p)
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath" tvg-name="Al Arabiya Al Hadath" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="NEWS AR",Al Arabiya Al Hadath (1080p)
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath" tvg-name="Al Arabiya Al Hadath" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="NEWS AR",Al Arabiya Al Hadath (1080p)
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="NEWS AR",Al Yaum
+https://besttv650-myflix-alyaum.aoslive.it.best-tv.com/egress/bhandler/ikomg/alyaum_tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Arabic AR",=====Arabic========
 http://iptvh.it/satcom-logo1
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip"
