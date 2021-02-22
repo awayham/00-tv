@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS AR",=====KIDS========
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS 1",=====KIDS 1========
 http://iptvh.it/satcom-logo1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="KIDS AR",Spacetoon (1080p)
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
@@ -244,6 +244,9 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
  https://iptv--iptv.repl.co/Arabic/SBC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/music.png" group-title="Rotana",Rotana Music (1080p)
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS AR",=====KIDS========
+http://iptvh.it/satcom-logo1
+
 #EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/1134.png"group-title="KIDS AR",AR: MBC 3
 http://teledunet.com:25461/live/tdn/40312987210/1134.m3u8
 #EXTINF:-1 tvg-logo="http://www.teledunet.com/logo/50338.png"group-title="KIDS AR",AR: Song
