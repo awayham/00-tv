@@ -5,8 +5,6 @@ http://82.212.74.99:8000/live/hls/8117.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 tvg-id="3eeshAlAanTV.ae" tvg-name="3eesh Al Aan TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",3eesh Al Aan TV
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
-#EXTINF:-1 tvg-id="AbnaeAlbalad.ly" tvg-name="Abnae Al balad" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://libyaschannel.com/wp-content/uploads/2015/01/uclogo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Abnae Al balad
-https://master.starmena-cloud.com/hls/abna.m3u8
 #EXTINF:-1 tvg-id="ABNsat.iq" tvg-name="ABNsat" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",ABNsat
 http://rtmp1.abnsat.com/hls/arabic.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Drama" tvg-name="Abu Dhabi Drama" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Abu Dhabi Drama (1080p)
@@ -39,8 +37,6 @@ http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 #EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Al Aan TV" tvg-name="Al Aan TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6WiXPd9.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Aan TV (540p)
-https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-url="" group-title="News",Al Alam (576p)
 https://live2.alalamtv.net/alalam.m3u8
 #EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-name="Al Alamiya 2" tvg-country="SD" tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/topics/15592492499912.jpg" tvg-url="" group-title="",Al Alamiya 2
@@ -216,8 +212,6 @@ https://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="AmmanTV.jo" tvg-name="Amman TV" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vkqYIO4.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Amman TV (720p)
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
-#EXTINF:-1 tvg-id="AnNajahNbc.ps" tvg-name="An-Najah Nbc" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Education",An-Najah Nbc (404p)
-http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
 #EXTINF:-1 tvg-id="ArabicaMusic.lb" tvg-name="Arabica Music" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://arabicagroup.tv/images/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Music",Arabica Music (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" tvg-url="" group-title="Sport",Arryadia (360p)
@@ -368,22 +362,14 @@ http://176.9.102.245:1935/iShtarTV/liveStream/playlist.m3u8
 https://master.starmena-cloud.com/hls/jam.m3u8
 #EXTINF:-1 tvg-id="JascoEventsTV.sa" tvg-name="Jasco Events TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Travel",Jasco Events TV
 http://82.212.74.100:8000/live/hls/8131.m3u8
-#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Jordan Sport TV
-https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
-#EXTINF:-1 tvg-id="Jordan ARB" tvg-name="Jordan ARB" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/siAiiws.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Jordan TV
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="KaifTV.sa" tvg-name="Kaif TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/q2qHUKF.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Kaif TV
 http://82.212.74.2:8000/live/hls/7311.m3u8
 #EXTINF:-1 tvg-id="KarbalaLive1.ir" tvg-name="Karbala Live 1" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-url="" group-title="Religious",Karbala Live 1 (360p)
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 #EXTINF:-1 tvg-id="KarbalaLive2.ir" tvg-name="Karbala Live 2" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-url="" group-title="Religious",Karbala Live 2 (360p)
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
-#EXTINF:-1 tvg-id="KarbalaLive3.ir" tvg-name="Karbala Live 3" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-url="" group-title="Religious",Karbala Live 3 (360p)
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
 #EXTINF:-1 tvg-id="KarbalaLive4.ir" tvg-name="Karbala Live 4" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-url="" group-title="Religious",Karbala Live 4 (360p)
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
-#EXTINF:-1 tvg-id="KarbalaLive5.ir" tvg-name="Karbala Live 5" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-url="" group-title="Religious",Karbala Live 5 (360p)
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
 #EXTINF:-1 tvg-id="KTV 1 ARB" tvg-name="KTV 1 ARB" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",KTV 1 (1080p)
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
 #EXTINF:-1 tvg-id="KTV 2 ARB" tvg-name="KTV 2 ARB" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",KTV 2 (1080p)
@@ -405,7 +391,7 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:-1 tvg-id="LanaHDTV.sy" tvg-name="Lana HD TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Lana HD TV
 https://stream.lanacanal.tv:444/hls/lana.m3u8
 #EXTINF:-1 tvg-id="LanaPlusTV.sy" tvg-name="Lana Plus TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Lana Plus TV
-https://stream.lanacanal.tv:444/hls/lanaplus.m3u8
+http://she3a.local-hd.com:8080/live/adam/520520/1544.m3u8
 #EXTINF:-1 tvg-id="LBC" tvg-name="LBC" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YLcmYCR.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",LBC (1080p)
 https://hiplayer.hibridcdn.net/p/rotana-lbc
 #EXTINF:-1 tvg-id="LBCInternational.lb" tvg-name="LBC International" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YPR45yP.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",LBC International (1080p)
@@ -424,8 +410,6 @@ https://master.starmena-cloud.com/hls/hd.m3u8
 https://master.starmena-cloud.com/hls/libyas.m3u8
 #EXTINF:-1 tvg-id="M24TVHD.ma" tvg-name="M24 TV HD" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" tvg-url="" group-title="News",M24 TV HD (720p)
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MaanNews.ps" tvg-name="Maan News" tvg-country="PS" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Maan News (720p)
-http://htvmada.mada.ps:8888/maannews/index.m3u8
 #EXTINF:-1 tvg-id="MajidTV.ae" tvg-name="Majid TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9Bun2IX.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Kids",Majid TV (1080p)
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Makkah TV (480p)
@@ -512,8 +496,6 @@ https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmanTVMubashir.om" tvg-name="Oman TV Mubashir" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/stADjXC.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Oman TV Mubashir (1080p)
 https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OmgChannelTV.eg" tvg-name="Omg Channel TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.omgchannel.net/admin/images/TVLogo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Omg Channel TV
-http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
 #EXTINF:-1 tvg-id="OrientRadioPlusPalestineMubasher.ps" tvg-name="Orient Radio + Palestine Mubasher" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Music",Orient Radio + Palestine Mubasher
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",OTV (1080p)
@@ -534,8 +516,6 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
 #EXTINF:-1 tvg-id="QatarTV2.qa" tvg-name="Qatar TV 2" tvg-country="QA" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvTwo2.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Qatar TV 2 (720p)
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:-1 tvg-id="Roya TV ARB" tvg-name="Roya TV ARB" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Sa2nBTP.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Ro'ya TV (1080p)
-https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Rotana Cinema HD (1080p)
 https://hiplayer.hibridcdn.net/p/rotana-cinema
 #EXTINF:-1 tvg-id="RotanaCinemaHD.sa" tvg-name="Rotana Cinema HD" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Rotana Cinema HD (1080p)
@@ -574,8 +554,6 @@ http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sama Dubai" tvg-name="Sama Dubai" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Sama Dubai (1080p)
 https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SamaTV.sy" tvg-name="Sama TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Bg52GiG.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Sama TV
-http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="SAT7ARABIC.cy" tvg-name="SAT-7 ARABIC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xvJw3qt.png" tvg-url="" group-title="",SAT-7 ARABIC (720p)
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="SAT7KIDS.cy" tvg-name="SAT-7 KIDS" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="",SAT-7 KIDS (720p)
@@ -602,8 +580,6 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SudanTV.sd" tvg-name="Sudan TV" tvg-country="SD" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="",Sudan TV (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
-#EXTINF:-1 tvg-id="SudanTV.sd" tvg-name="Sudan TV" tvg-country="SD" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="",Sudan TV
-https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-country="YE" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="News",Suhail TV
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Syria Drama (270p)
@@ -631,8 +607,6 @@ https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/60
 https://iptv--iptv.repl.co/Arabic/Zikrayat/
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" tvg-url="" group-title="News",TRT Arabi (1080p)
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-name="Tunisie Immobilier TV" tvg-country="TN" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" tvg-url="" group-title="Travel",Tunisie Immobilier TV (720p)
-http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
 #EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-name="Tunisie Immobilier TV" tvg-country="TN" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" tvg-url="" group-title="Travel",Tunisie Immobilier TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVSeventeen.lb" tvg-name="TV Seventeen" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.tvseventeen.com/img/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",TV Seventeen (720p)
@@ -643,8 +617,6 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 http://82.137.248.16:1935/Ugarit/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-id="Unews.lb" tvg-name="Unews" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.u-news.net/themes/publication_1/theme_1/_img/logoimg.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Unews (360p)
 https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8
-#EXTINF:-1 tvg-id="VioletTV.eg" tvg-name="Violet TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Violet TV
-https://5e98ac1ed3cd4.streamlock.net/violet.tv/violet2/playlist.m3u8
 #EXTINF:-1 tvg-id="Wanasah" tvg-name="Wanasah" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Music",Wanasah (1080p)
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 tvg-id="WatanTV.eg" tvg-name="Watan TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Watan TV (1080p)
@@ -655,8 +627,6 @@ http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="YemenShabab.ye" tvg-name="Yemen Shabab" tvg-country="YE" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Education",Yemen Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-id="YemenTV.ye" tvg-name="Yemen TV" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/azGNY6n.jpg" tvg-url="" group-title="General",Yemen TV
-https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zagros.iq" tvg-name="Zagros" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Zagros (720p)
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTM3U
@@ -679,7 +649,7 @@ https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/06.jpg",Mekameleen
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/07.jpg",Watan
-http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/08.jpg",Alqanat 9
 https://cdn.videoevent.live:19360/alqanat9/alqanat9.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/09.jpg",Daawah
@@ -687,7 +657,9 @@ http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/10.jpg",Alhiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b2796000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg",Qatar TV
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/master720p.m3u8
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg",Qatar 2 TV
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/11.jpg",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg",TRT Arabic
@@ -803,310 +775,3 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:0,BHT 1
 http://195.222.59.150:1935/live/bht1.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="█ █ █     KIDS CHANNELS"  live="1" tvg-logo="http://www.teledunet.com/logo.php?id=50338" group-title="KIDS CHANNELS",█ █ █     KIDS CHANNELS
-http://www.teledunet.com/logo.php?id=50338
-#EXTINF:-1 tvg-id="" tvg-name=TOYOUR ALJANNAH live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1014523 group-title="Kids",TOYOUR ALJANNAH
-http://5.9.105.18:8080/live/tdn/109779957115/1014523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=PAW PETROL live="1" tvg-logo="http://www.teledunet.com/logo.php?id=2006274 group-title="Kids",PAW PETROL
-http://5.9.105.18:8080/live/tdn/109780948866/2006274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=De live="1" tvg-logo="http://www.teledunet.com/logo.php?id=4630 group-title="Kids",De
-http://5.9.105.18:8080/live/tdn/109778947222/4630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=CHU CHU TV BABY BUS live="1" tvg-logo="http://www.teledunet.com/logo.php?id=2006348 group-title="Kids",CHU CHU TV BABY BUS
-http://5.9.105.18:8080/live/tdn/109780948940/2006348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BARAEM live="1" tvg-logo="http://www.teledunet.com/logo.php?id=101544 group-title="Kids",BARAEM
-http://5.9.105.18:8080/live/tdn/109779044136/101544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BOOBA TV live="1" tvg-logo="http://www.teledunet.com/logo.php?id=2006347 group-title="Kids",BOOBA TV
-http://5.9.105.18:8080/live/tdn/109780948939/2006347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=KARAMEESH live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10116 group-title="Kids",KARAMEESH
-http://5.9.105.18:8080/live/tdn/109778952708/10116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=ALMAJED KIDS live="1" tvg-logo="http://www.teledunet.com/logo.php?id=101528 group-title="Kids",ALMAJED KIDS
-http://5.9.105.18:8080/live/tdn/109779044120/101528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=GULLI FR live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10346 group-title="Kids",GULLI FR
-http://5.9.105.18:8080/live/tdn/109778952938/10346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Old MacDonald Had A Farm live="1" tvg-logo="http://www.teledunet.com/logo.php?id=2006349 group-title="Kids",Old MacDonald Had A Farm
-http://5.9.105.18:8080/live/tdn/109780948941/2006349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MICKEY MOUSE live="1" tvg-logo="http://www.teledunet.com/logo.php?id=2006346 group-title="Kids",MICKEY MOUSE
-http://5.9.105.18:8080/live/tdn/109780948938/2006346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=CARTOON NETWORK ARABIC live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1117 group-title="Kids",CARTOON NETWORK ARABIC
-http://5.9.105.18:8080/live/tdn/109778943709/1117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MBC 3 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1134 group-title="Kids",MBC 3
-http://5.9.105.18:8080/live/tdn/109778943726/1134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BABY SONG live="1" tvg-logo="http://www.teledunet.com/logo.php?id=50338 group-title="Kids",BABY SONG
-http://5.9.105.18:8080/live/tdn/109778992930/50338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN KIDS live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1049 group-title="Kids",OSN KIDS
-http://5.9.105.18:8080/live/tdn/109778943641/1049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=TOM AND JERRY live="1" tvg-logo="http://www.teledunet.com/logo.php?id=2006275 group-title="Kids",TOM AND JERRY
-http://5.9.105.18:8080/live/tdn/109780948867/2006275.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=JEEM KIDS live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1119 group-title="Kids",JEEM KIDS
-http://5.9.105.18:8080/live/tdn/109778943711/1119.m3u8
-[4600: "Film"]
-#EXTINF:-1 tvg-id="" tvg-name=Film live="1" tvg-logo="http://www.teledunet.com/logo.php?id=4600 group-title="SHAHID",Film
-http://5.9.105.18:8080/live/tdn/109778947192/4600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="█ █ █     OSN"  live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10125" group-title="OSN",█ █ █     OSN
-http://www.teledunet.com/logo.php?id=10125
-#EXTINF:-1 tvg-id="" tvg-name=ART CINEMA live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1051 group-title="OSN",ART CINEMA
-http://5.9.105.18:8080/live/tdn/109778943643/1051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN COMEDY live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1022570 group-title="OSN",OSN COMEDY
-http://5.9.105.18:8080/live/tdn/109779965162/1022570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=CINEMA 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10295 group-title="OSN",CINEMA 1
-http://5.9.105.18:8080/live/tdn/109778952887/10295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN MUSALSALAT HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=102264 group-title="OSN",OSN MUSALSALAT HD
-http://5.9.105.18:8080/live/tdn/109779044856/102264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN YAHALA CINEMA live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1046 group-title="OSN",OSN YAHALA CINEMA
-http://5.9.105.18:8080/live/tdn/109778943638/1046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN COMEDY CENTRAL live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1048 group-title="OSN",OSN COMEDY CENTRAL
-http://5.9.105.18:8080/live/tdn/109778943640/1048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN MOVIES FIRST live="1" tvg-logo="http://www.teledunet.com/logo.php?id=102267 group-title="OSN",OSN MOVIES FIRST
-http://5.9.105.18:8080/live/tdn/109779044859/102267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN MUSALSALAT +2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1047 group-title="OSN",OSN MUSALSALAT +2
-http://5.9.105.18:8080/live/tdn/109778943639/1047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=ART AFLAM 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=101515 group-title="OSN",ART AFLAM 2
-http://5.9.105.18:8080/live/tdn/109779044107/101515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN YAHALA HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=101458 group-title="OSN",OSN YAHALA HD
-http://5.9.105.18:8080/live/tdn/109779044050/101458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN ART HIKAYAT live="1" tvg-logo="http://www.teledunet.com/logo.php?id=102270 group-title="OSN",OSN ART HIKAYAT
-http://5.9.105.18:8080/live/tdn/109779044862/102270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN STAR MOVIES live="1" tvg-logo="http://www.teledunet.com/logo.php?id=20330 group-title="OSN",OSN STAR MOVIES
-http://5.9.105.18:8080/live/tdn/109778962922/20330.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN SERIES FIRST live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1014610 group-title="OSN",OSN SERIES FIRST
-http://5.9.105.18:8080/live/tdn/109779957202/1014610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN CINEMA 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1050 group-title="OSN",OSN CINEMA 1
-http://5.9.105.18:8080/live/tdn/109778943642/1050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=ART AFLAM 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=101514 group-title="OSN",ART AFLAM 1
-http://5.9.105.18:8080/live/tdn/109779044106/101514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN TLC live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10309 group-title="OSN",OSN TLC
-http://5.9.105.18:8080/live/tdn/109778952901/10309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN ALYAWM live="1" tvg-logo="http://www.teledunet.com/logo.php?id=101450 group-title="OSN",OSN ALYAWM
-http://5.9.105.18:8080/live/tdn/109779044042/101450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN YAHALA OULA live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1045 group-title="OSN",OSN YAHALA OULA
-http://5.9.105.18:8080/live/tdn/109778943637/1045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN ACTIONS HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=102256 group-title="OSN",OSN ACTIONS HD
-http://5.9.105.18:8080/live/tdn/109779044848/102256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN MOVIES live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1053 group-title="OSN",OSN MOVIES
-http://5.9.105.18:8080/live/tdn/109778943645/1053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN STAR WORLD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=20299 group-title="OSN",OSN STAR WORLD
-http://5.9.105.18:8080/live/tdn/109778962891/20299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN NATIONAL GEOGRAPHIC AD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10125 group-title="OSN",OSN NATIONAL GEOGRAPHIC AD
-http://5.9.105.18:8080/live/tdn/109778952717/10125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN YAHALA live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1044 group-title="OSN",OSN YAHALA
-http://5.9.105.18:8080/live/tdn/109778943636/1044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN COMEDY HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=102257 group-title="OSN",OSN COMEDY HD
-http://5.9.105.18:8080/live/tdn/109779044849/102257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN ACTIONS live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1022560 group-title="OSN",OSN ACTIONS
-http://5.9.105.18:8080/live/tdn/109779965152/1022560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN YAHALA CINEMA HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1014480 group-title="OSN",OSN YAHALA CINEMA HD
-http://5.9.105.18:8080/live/tdn/109779957072/1014480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN YAHALA OULA HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=101448 group-title="OSN",OSN YAHALA OULA HD
-http://5.9.105.18:8080/live/tdn/109779044040/101448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN ART HIKAYAT 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=101520 group-title="OSN",OSN ART HIKAYAT 1
-http://5.9.105.18:8080/live/tdn/109779044112/101520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="█ █ █     BEIN MEDIA"  live="1" tvg-logo="http://www.teledunet.com/logo.php?id=20061" group-title="BEIN MEDIA",█ █ █    BEIN MEDIA
-http://www.teledunet.com/logo.php?id=20061
-#EXTINF:-1 tvg-id="" tvg-name=BEIN FOX ACTIONS live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1023 group-title="Bein",BEIN FOX ACTIONS
-http://5.9.105.18:8080/live/tdn/109778943615/1023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BEIN FOX CRIME live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1024 group-title="Bein",BEIN FOX CRIME
-http://5.9.105.18:8080/live/tdn/109778943616/1024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BEIN SERIES 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1014614 group-title="Bein",BEIN SERIES 1
-http://5.9.105.18:8080/live/tdn/109779957206/1014614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BEIN SERIES 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1020 group-title="Bein",BEIN SERIES 2
-http://5.9.105.18:8080/live/tdn/109778943612/1020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BEIN MOVIES ACTIONS 2 HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10084 group-title="Bein",BEIN MOVIES ACTIONS 2 HD
-http://5.9.105.18:8080/live/tdn/109778952676/10084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BEIN MOVIE PREMIER TR live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1027 group-title="Bein",BEIN MOVIE PREMIER TR
-http://5.9.105.18:8080/live/tdn/109778943619/1027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BEIN FATAFEAT live="1" tvg-logo="http://www.teledunet.com/logo.php?id=101473 group-title="Bein",BEIN FATAFEAT
-http://5.9.105.18:8080/live/tdn/109779044065/101473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BEIN MOVIES DRAMA 3 HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10085 group-title="Bein",BEIN MOVIES DRAMA 3 HD
-http://5.9.105.18:8080/live/tdn/109778952677/10085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BEIN GOURMET live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1021 group-title="Bein",BEIN GOURMET
-http://5.9.105.18:8080/live/tdn/109778943613/1021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=BEIN FOX REWAYAT live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1022 group-title="Bein",BEIN FOX REWAYAT
-http://5.9.105.18:8080/live/tdn/109778943614/1022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="█ █ █     NETFLIX"  live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1085" group-title="NETFLIX",█ █ █    NETFLIX
-http://www.teledunet.com/logo.php?id=1085
-#EXTINF:-1 tvg-id="" tvg-name=NETFLIX DRAMA live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1094 group-title="Netflix",NETFLIX DRAMA
-http://5.9.105.18:8080/live/tdn/109778943686/1094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=NETFLIX live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1059 group-title="Netflix",NETFLIX
-http://5.9.105.18:8080/live/tdn/109778943651/1059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=NETFLIX ARABIC live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1085 group-title="Netflix",NETFLIX ARABIC
-http://5.9.105.18:8080/live/tdn/109778943677/1085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=NETFLIX ACTION live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1087 group-title="Netflix",NETFLIX ACTION
-http://5.9.105.18:8080/live/tdn/109778943679/1087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=NETFLIX HORROR live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1088 group-title="Netflix",NETFLIX HORROR
-http://5.9.105.18:8080/live/tdn/109778943680/1088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=NETFLIX BOLLYWOOD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1090 group-title="Netflix",NETFLIX BOLLYWOOD
-http://5.9.105.18:8080/live/tdn/109778943682/1090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID DRAMA 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1060 group-title="Netflix",SHAHID DRAMA 1
-http://5.9.105.18:8080/live/tdn/109778943652/1060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=NETFLIX HORROR 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1089 group-title="Netflix",NETFLIX HORROR 2
-http://5.9.105.18:8080/live/tdn/109778943681/1089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=NETFLIX BOLLYWOOD 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1091 group-title="Netflix",NETFLIX BOLLYWOOD 2
-http://5.9.105.18:8080/live/tdn/109778943683/1091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID DRAMA 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1061 group-title="Netflix",SHAHID DRAMA 2
-http://5.9.105.18:8080/live/tdn/109778943653/1061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=ARABIC NETFLIX live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1086 group-title="Netflix",ARABIC NETFLIX
-http://5.9.105.18:8080/live/tdn/109778943678/1086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=NETFLIX COMEDY live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1092 group-title="Netflix",NETFLIX COMEDY
-http://5.9.105.18:8080/live/tdn/109778943684/1092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="█ █ █     SHAHID"  live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1057" group-title="SHAHID",█ █ █     SHAHID
-http://www.teledunet.com/logo.php?id=1057
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Aflam 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1079 group-title="SHAHID",Shahid Aflam 1
-http://5.9.105.18:8080/live/tdn/109778943671/1079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Arabia 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10309 group-title="SHAHID",Shahid Arabia 1
-http://5.9.105.18:8080/live/tdn/109778952901/10309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Comedy 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1063 group-title="SHAHID",Shahid Comedy 2
-http://5.9.105.18:8080/live/tdn/109778943655/1063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID SCI FI 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1071 group-title="SHAHID",SHAHID SCI FI 1
-http://5.9.105.18:8080/live/tdn/109778943663/1071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Action live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1084 group-title="SHAHID",Shahid Action
-http://5.9.105.18:8080/live/tdn/109778943676/1084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Drama 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1061 group-title="SHAHID",Shahid Drama 2
-http://5.9.105.18:8080/live/tdn/109778943653/1061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID DOCUMENTARY 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1069 group-title="SHAHID",SHAHID DOCUMENTARY 1
-http://5.9.105.18:8080/live/tdn/109778943661/1069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Comedy 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1062 group-title="SHAHID",Shahid Comedy 1
-http://5.9.105.18:8080/live/tdn/109778943654/1062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Cinema live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1081 group-title="SHAHID",Shahid Cinema
-http://5.9.105.18:8080/live/tdn/109778943673/1081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Aflam 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1080 group-title="SHAHID",Shahid Aflam 2
-http://5.9.105.18:8080/live/tdn/109778943672/1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Horror 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1073 group-title="SHAHID",Shahid Horror 1
-http://5.9.105.18:8080/live/tdn/109778943665/1073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Action 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1059 group-title="SHAHID",Shahid Action 2
-http://5.9.105.18:8080/live/tdn/109778943651/1059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID CRIME 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1067 group-title="SHAHID",SHAHID CRIME 1
-http://5.9.105.18:8080/live/tdn/109778943659/1067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Zaman live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1082 group-title="SHAHID",Shahid Zaman
-http://5.9.105.18:8080/live/tdn/109778943674/1082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID DOCUMENTARY 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1070 group-title="SHAHID",SHAHID DOCUMENTARY 2
-http://5.9.105.18:8080/live/tdn/109778943662/1070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID ADVENTURE live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1064 group-title="SHAHID",SHAHID ADVENTURE
-http://5.9.105.18:8080/live/tdn/109778943656/1064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Horror live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1083 group-title="SHAHID",Shahid Horror
-http://5.9.105.18:8080/live/tdn/109778943675/1083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Action 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1058 group-title="SHAHID",Shahid Action 1
-http://5.9.105.18:8080/live/tdn/109778943650/1058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Drama 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1060 group-title="SHAHID",Shahid Drama 1
-http://5.9.105.18:8080/live/tdn/109778943652/1060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID SCI FI 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1072 group-title="SHAHID",SHAHID SCI FI 2
-http://5.9.105.18:8080/live/tdn/109778943664/1072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="█ █ █     SHAHID"  live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1057" group-title="SHAHID",█ █ █     SHAHID
-http://www.teledunet.com/logo.php?id=1057
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Aflam 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1079 group-title="SHAHID",Shahid Aflam 1
-http://5.9.105.18:8080/live/tdn/109778943671/1079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Arabia 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10309 group-title="SHAHID",Shahid Arabia 1
-http://5.9.105.18:8080/live/tdn/109778952901/10309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Comedy 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1063 group-title="SHAHID",Shahid Comedy 2
-http://5.9.105.18:8080/live/tdn/109778943655/1063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID SCI FI 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1071 group-title="SHAHID",SHAHID SCI FI 1
-http://5.9.105.18:8080/live/tdn/109778943663/1071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Action live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1084 group-title="SHAHID",Shahid Action
-http://5.9.105.18:8080/live/tdn/109778943676/1084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Drama 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1061 group-title="SHAHID",Shahid Drama 2
-http://5.9.105.18:8080/live/tdn/109778943653/1061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID DOCUMENTARY 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1069 group-title="SHAHID",SHAHID DOCUMENTARY 1
-http://5.9.105.18:8080/live/tdn/109778943661/1069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Comedy 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1062 group-title="SHAHID",Shahid Comedy 1
-http://5.9.105.18:8080/live/tdn/109778943654/1062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Cinema live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1081 group-title="SHAHID",Shahid Cinema
-http://5.9.105.18:8080/live/tdn/109778943673/1081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Aflam 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1080 group-title="SHAHID",Shahid Aflam 2
-http://5.9.105.18:8080/live/tdn/109778943672/1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Horror 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1073 group-title="SHAHID",Shahid Horror 1
-http://5.9.105.18:8080/live/tdn/109778943665/1073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Action 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1059 group-title="SHAHID",Shahid Action 2
-http://5.9.105.18:8080/live/tdn/109778943651/1059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID CRIME 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1067 group-title="SHAHID",SHAHID CRIME 1
-http://5.9.105.18:8080/live/tdn/109778943659/1067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Zaman live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1082 group-title="SHAHID",Shahid Zaman
-http://5.9.105.18:8080/live/tdn/109778943674/1082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID DOCUMENTARY 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1070 group-title="SHAHID",SHAHID DOCUMENTARY 2
-http://5.9.105.18:8080/live/tdn/109778943662/1070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID ADVENTURE live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1064 group-title="SHAHID",SHAHID ADVENTURE
-http://5.9.105.18:8080/live/tdn/109778943656/1064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Horror live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1083 group-title="SHAHID",Shahid Horror
-http://5.9.105.18:8080/live/tdn/109778943675/1083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Action 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1058 group-title="SHAHID",Shahid Action 1
-http://5.9.105.18:8080/live/tdn/109778943650/1058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Shahid Drama 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1060 group-title="SHAHID",Shahid Drama 1
-http://5.9.105.18:8080/live/tdn/109778943652/1060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=SHAHID SCI FI 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1072 group-title="SHAHID",SHAHID SCI FI 2
-http://5.9.105.18:8080/live/tdn/109778943664/1072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="█ █ █     LEBANON"  live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10012" group-title="LEBANON",█ █ █    LEBANON
-http://www.teledunet.com/logo.php?id=10012
-#EXTINF:-1 tvg-id="" tvg-name=MTV LEBANON HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10009 group-title="LEBANON",MTV LEBANON HD
-http://5.9.105.18:8080/live/tdn/109778952601/10009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=ALJADEED live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1148 group-title="LEBANON",ALJADEED
-http://5.9.105.18:8080/live/tdn/109778943740/1148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=LBC HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10004 group-title="LEBANON",LBC HD
-http://5.9.105.18:8080/live/tdn/109778952596/10004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=LBCI live="1" tvg-logo="http://www.teledunet.com/logo.php?id=50706 group-title="LEBANON",LBCI
-http://5.9.105.18:8080/live/tdn/109778993298/50706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=ALJADEED HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10008 group-title="LEBANON",ALJADEED HD
-http://5.9.105.18:8080/live/tdn/109778952600/10008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MTV LEBANON live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1147 group-title="LEBANON",MTV LEBANON
-http://5.9.105.18:8080/live/tdn/109778943739/1147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=LBCI live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1145 group-title="LEBANON",LBCI
-http://5.9.105.18:8080/live/tdn/109778943737/1145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=TELE LEBANON HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10012 group-title="LEBANON",TELE LEBANON HD
-http://5.9.105.18:8080/live/tdn/109778952604/10012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="█ █ █     Music"  live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1085" group-title="Music",█ █ █     Music
-http://www.teledunet.com/logo.php?id=10104
-#EXTINF:-1 tvg-id="" tvg-name=OSN MUSIC NOW live="1" tvg-logo="http://www.teledunet.com/logo.php?id=50299 group-title="Music",OSN MUSIC NOW
-http://5.9.105.18:8080/live/tdn/109778992891/50299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=? live="1" tvg-logo="http://www.teledunet.com/logo.php?id=200 group-title="Music",?
-http://5.9.105.18:8080/live/tdn/109778942792/200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=? live="1" tvg-logo="http://www.teledunet.com/logo.php?id=900 group-title="Music",?
-http://5.9.105.18:8080/live/tdn/109778943492/900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=LIBYA HADATH live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1014627 group-title="Music",LIBYA HADATH
-http://5.9.105.18:8080/live/tdn/109779957219/1014627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=? live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1000 group-title="Music",?
-http://5.9.105.18:8080/live/tdn/109778943592/1000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN FANN live="1" tvg-logo="http://www.teledunet.com/logo.php?id=102276 group-title="Music",OSN FANN
-http://5.9.105.18:8080/live/tdn/109779044868/102276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=ARABICA live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1150 group-title="Music",ARABICA
-http://5.9.105.18:8080/live/tdn/109778943742/1150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=HAWACOM HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10014 group-title="Music",HAWACOM HD
-http://5.9.105.18:8080/live/tdn/109778952606/10014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=AGHANI live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1014623 group-title="Music",AGHANI
-http://5.9.105.18:8080/live/tdn/109779957215/1014623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=? live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1014598 group-title="Music",?
-http://5.9.105.18:8080/live/tdn/109779957190/1014598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=OSN AL SAFWA live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1014589 group-title="Music",OSN AL SAFWA
-http://5.9.105.18:8080/live/tdn/109779957181/1014589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=ONE LEBANON HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10010 group-title="Music",ONE LEBANON HD
-http://5.9.105.18:8080/live/tdn/109778952602/10010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="█ █ █     MBC"  live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10088" group-title="MBC",█ █ █    MBC
-http://www.teledunet.com/logo.php?id=10088
-#EXTINF:-1 tvg-id="" tvg-name=MBC Drama live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1138 group-title="MBC",MBC Drama
-http://5.9.105.18:8080/live/tdn/109778943730/1138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MBC Drama+ live="1" tvg-logo="http://www.teledunet.com/logo.php?id=100950 group-title="MBC",MBC Drama+
-http://5.9.105.18:8080/live/tdn/109779043542/100950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Acwam live="1" tvg-logo="http://www.teledunet.com/logo.php?id=2006116 group-title="MBC",Acwam
-http://5.9.105.18:8080/live/tdn/109780948708/2006116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MBC 1 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=2006115 group-title="MBC",MBC 1
-http://5.9.105.18:8080/live/tdn/109780948707/2006115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MBC 4 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1135 group-title="MBC",MBC 4
-http://5.9.105.18:8080/live/tdn/109778943727/1135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MBC live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1130 group-title="MBC",MBC
-http://5.9.105.18:8080/live/tdn/109778943722/1130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MBC live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1131 group-title="MBC",MBC
-http://5.9.105.18:8080/live/tdn/109778943723/1131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=Acwam live="1" tvg-logo="http://www.teledunet.com/logo.php?id=100952 group-title="MBC",Acwam
-http://5.9.105.18:8080/live/tdn/109779043544/100952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MBC live="1" tvg-logo="http://www.teledunet.com/logo.php?id=100951 group-title="MBC",MBC
-http://5.9.105.18:8080/live/tdn/109779043543/100951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MBC 2 live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1133 group-title="MBC",MBC 2
-http://5.9.105.18:8080/live/tdn/109778943725/1133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MBC live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1132 group-title="MBC",MBC
-http://5.9.105.18:8080/live/tdn/109778943724/1132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=MBC live="1" tvg-logo="http://www.teledunet.com/logo.php?id=1140 group-title="MBC",MBC
-http://5.9.105.18:8080/live/tdn/109778943732/1140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="█ █ █     Arabic"  live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10088" group-title="Arabic",█ █ █    Arabic
-http://www.teledunet.com/logo.php?id=10088
-#EXTINF:-1 tvg-id="" tvg-name=NESSMA HD live="1" tvg-logo="http://www.teledunet.com/logo.php?id=10047 group-title="Arabic",NESSMA HD
-http://5.9.105.18:8080/live/tdn/109778952639/10047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=NESSMA live="1" tvg-logo="http://www.teledunet.com/logo.php?id=101478 group-title="Arabic",NESSMA
-http://5.9.105.18:8080/live/tdn/109779044070/101478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=NESSMA live="1" tvg-logo="http://www.teledunet.com/logo.php?id=11014795 group-title="Arabic",NESSMA
-http://5.9.105.18:8080/live/tdn/109789957387/11014795.m3u8
