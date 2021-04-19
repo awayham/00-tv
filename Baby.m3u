@@ -174,8 +174,16 @@ https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-id="AlBawadi.kw" tvg-name="Al-Bawadi" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://ewsat.com/img/AL_BAWADI.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Al-Bawadi
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/chunks.m3u8
-#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al-Resalah
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al-Resalah (1080p)
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al-Resalah (240p)
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_240p/chunks.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al-Resalah (360p)
 https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al-Resalah (480p)
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al-Resalah (720p)
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AlSabah.kw" tvg-name="Al-Sabah" tvg-country="KW" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Al-Sabah
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="AlShahed.kw" tvg-name="Al-Shahed" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://alshahed.tv/wp-content/themes/twentyfifteen/asset/img/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Al-Shahed
@@ -316,6 +324,8 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV" tvg-name="Etisalat Dubai Zaman TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5U9qpf.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Classic",Dubai Zaman (576p)
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-url="" group-title="News",DW Arabic
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-url="" group-title="News",DW Arabic (400p)
 https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-name="Echorouk News" tvg-country="DZ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="News",Echorouk News (240p)
@@ -332,6 +342,8 @@ http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
 #EXTINF:-1 tvg-id="Falastini.ps" tvg-name="Falastini" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://www.falastini.tv/wp-content/uploads/2018/10/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Music",Falastini
 http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-url="" group-title="News",France 24 Arabic
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-url="" group-title="News",France 24 Arabic (576p)
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-url="" group-title="News",France 24 Arabic (576p)
@@ -394,10 +406,14 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 #EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-name="KTV Sport Plus" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",KTV Sport Plus (1080p)
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
-#EXTINF:-1 tvg-id="LanaHDTV.sy" tvg-name="Lana HD TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Lana HD TV
+#EXTINF:-1 tvg-id="LanaHDTV.sy" tvg-name="Lana HD TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Lana HD TV (1080p)
 http://lana.restream-tv.com:8080/live/aDRxvnmvMD/XxlJwshZgW/2.m3u8
-#EXTINF:-1 tvg-id="LanaPlusTV.sy" tvg-name="Lana Plus TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Lana Plus TV
+#EXTINF:-1 tvg-id="LanaHDTV.sy" tvg-name="Lana HD TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Lana HD TV (720p)
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:-1 tvg-id="LanaPlusTV.sy" tvg-name="Lana Plus TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Lana Plus TV (576p)
 http://lana.restream-tv.com:8080/live/aDRxvnmvMD/XxlJwshZgW/1.m3u8
+#EXTINF:-1 tvg-id="LanaPlusTV.sy" tvg-name="Lana Plus TV" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Lana Plus TV (720p)
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 #EXTINF:-1 tvg-id="LBC" tvg-name="LBC" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YLcmYCR.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",LBC (1080p)
 https://hiplayer.hibridcdn.net/p/rotana-lbc
 #EXTINF:-1 tvg-id="LBCInternational.lb" tvg-name="LBC International" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YPR45yP.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",LBC International (1080p)
@@ -428,6 +444,8 @@ http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
 https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/live/MarinaTv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",MBC (1080p)
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",MBC (360p)
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_5.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC 2 (1080p)
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Kids",MBC 3 (1080p)
@@ -704,80 +722,3 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/tf1.png",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTM3U
-#EXTINF:0,3sat
-http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
-#EXTINF:0,arte DE
-http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-#EXTINF:0,ARD-Alpha
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:0,Das Erste
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:0,Deutsche Welle
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:0,One HD
-http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
-#EXTINF:0,Phoenix
-http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
-#EXTINF:0,ZDF HD
-http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
-#EXTINF:0,ZDF info
-http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
-#EXTINF:0,ZDF neo
-http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
-#EXTINF:0,Tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:0,BR HD Nord
-http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:0,BR HD Sued
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:0,KiKa
-https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
-#EXTINF:0,MDR
-https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
-#EXTINF:0,NDR Hamburg
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:0,NDR Mecklenburg-Vorpommern
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-#EXTINF:0,NDR Niedersachsen
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:0,NDR Schleswig-Holstein
-https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-#EXTINF:0,RBB Berlin
-https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
-#EXTINF:0,RBB Brandenburg
-https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8
-#EXTINF:0,SR HD
-https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
-#EXTINF:0,SWR HD Baden-Wuerttemberg
-http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
-#EXTINF:0,SWR HD Rheinland-Pfalz
-http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
-#EXTINF:0,WDR HD
-https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
-#EXTINF:0,N24
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
-#EXTINF:0,N-TV
-https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/master.m3u8
-#EXTINF:0,DAF
-http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
-#EXTINF:0,TV Berlin
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:6119_Q7XY8ZNm9PBKywV/playlist.m3u8
-#EXTINF:0,Deluxe Music
-https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
-#EXTINF:0,sky Sport News HD
-https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8
-#EXTINF:0,TV Baden
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:0,arte FR
-http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
-#EXTINF:0,France24 FR
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:0,TRT World
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:0,Aljazeera English HD
-https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
-#EXTINF:0,Aljazeera Balkans
-https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:0,BHT 1
-http://195.222.59.150:1935/live/bht1.stream/chunklist.m3u8
