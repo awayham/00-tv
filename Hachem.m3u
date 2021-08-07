@@ -1,5 +1,5 @@
 #EXTM3U
-111111111111111
+66666
 #EXTINF:-1 tvg-id="2MMaroc.ma" tvg-name="2M Maroc" tvg-country="MA" tvg-language="Arabic" tvg-logo="" group-title="General",2M Maroc
 http://149.100.19.226:8001/play/2M_Maroc
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",2M Monde (360p)
