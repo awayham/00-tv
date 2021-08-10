@@ -4331,18 +4331,10 @@ http://aumaletv.com:25461/awmovies/Sarssars1/44567
 http://aumaletv.com:25461/awmovies/Sarssars1/44568
 #EXTINF:-1,DE | Disney Cinemagic FHD
 http://aumaletv.com:25461/awmovies/Sarssars1/44569
-#EXTINF:-1,DE | THE PET COLLECTIVE
-http://aumaletv.com:25461/awmovies/Sarssars1/44571
-#EXTINF:-1,DE: Alex Berlin HD
-http://aumaletv.com:25461/awmovies/Sarssars1/48253
-#EXTINF:-1,DE: ALLGAU TV HD
-http://aumaletv.com:25461/awmovies/Sarssars1/48255
 #EXTINF:-1,DE: Alpha HD
 http://aumaletv.com:25461/awmovies/Sarssars1/48256
 #EXTINF:-1,DE: ANIXE FHD
 http://aumaletv.com:25461/awmovies/Sarssars1/48259
-#EXTINF:-1,DE: ARD ONE HD
-http://aumaletv.com:25461/awmovies/Sarssars1/48265
 #EXTINF:-1,DE: Auto Moto Sport FHD
 http://aumaletv.com:25461/awmovies/Sarssars1/48277
 #EXTINF:-1,DE: Bayerisches Fernsehen Süd HD
@@ -4385,8 +4377,6 @@ http://aumaletv.com:25461/awmovies/Sarssars1/48410
 http://aumaletv.com:25461/awmovies/Sarssars1/48411
 #EXTINF:-1,DE: eutsches Musik Fernsehen HD
 http://aumaletv.com:25461/awmovies/Sarssars1/48412
-#EXTINF:-1,DE: EWTN katholisches TV
-http://aumaletv.com:25461/awmovies/Sarssars1/48414
 #EXTINF:-1,DE: Family TV
 http://aumaletv.com:25461/awmovies/Sarssars1/48415
 #EXTINF:-1,DE: FC Bayern HD
@@ -4421,8 +4411,6 @@ http://aumaletv.com:25461/awmovies/Sarssars1/48490
 http://aumaletv.com:25461/awmovies/Sarssars1/48492
 #EXTINF:-1,DE: KIKA FHD
 http://aumaletv.com:25461/awmovies/Sarssars1/48494
-#EXTINF:-1,DE: Kino WELT HD
-http://aumaletv.com:25461/awmovies/Sarssars1/48495
 #EXTINF:-1,DE: Krone Hit FHD
 http://aumaletv.com:25461/awmovies/Sarssars1/48506
 #EXTINF:-1,DE: KULTUR MD
@@ -6605,7 +6593,7 @@ http://aumaletv.com:25461/awmovies/Sarssars1/38995
 http://aumaletv.com:25461/awmovies/Sarssars1/38996
 #EXTINF:-1,SuperSport 1 HD
 http://aumaletv.com:25461/awmovies/Sarssars1/38997
-#EXTINF:-1,SuperSport 2 HD
+#EXTINF:-1,Super Sports 2 HD
 http://aumaletv.com:25461/awmovies/Sarssars1/38998
 #EXTINF:-1,SuperSport 3 HD
 http://aumaletv.com:25461/awmovies/Sarssars1/38999
@@ -7184,7 +7172,7 @@ https://linkastream.co/headless?url=https://www.youtube.com/c/cbcstream/live
 https://linkastream.co/headless?url=https://www.youtube.com/c/CBCDramaStream/live
 #EXTINF:-1 tvg-id="CBCSofra.eg" tvg-name="CBC Sofra" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="",CBC Sofra [Not 24/7]
 https://linkastream.co/headless?url=https://www.youtube.com/c/CBCSofraStream/live
-#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-country="CN" tvg-language="Arabic" tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" group-title="",CGTN Arabic (720p)
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-country="CN" tvg-language="Arabic" tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" group-title="News",CGTN Arabic (720p)
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="Ch4Teen.kw" tvg-name="Ch4Teen" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://i.imgur.com/JeG9K1y.png" group-title="",Ch4Teen (480p)
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
